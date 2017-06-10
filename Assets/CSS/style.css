@@ -1,0 +1,123 @@
+body {
+	background-image: url("https://www.toptal.com/designers/subtlepatterns/patterns/sayagata-400px.png");
+}
+
+#github
+{
+	height:30%;
+	width:30%;
+	padding:2%;
+	margin:1%;
+	border:1%;
+}
+#linkedin
+{
+	height:25%;
+	width:25%;
+	padding:2%;
+	margin:1%;
+	border:1%;
+}
+#stackoverflow
+{
+	height:25%;
+	width:25%;
+	padding:2%;
+	margin:1%;
+	border:1%;
+}
+h1
+{
+	font-size:24px;
+	font-family: Arial, "helvetica Neue", Helvetica, sans-serif;
+	font-weight: bold;
+	color:#4aaaa5;
+	border-bottom:solid;
+	border-color:#cccccc;
+
+}
+h2
+{
+	font-size:24px;
+	font-family: Arial, "helvetica Neue", Helvetica, sans-serif;
+	font-weight: bold;
+	color:#4aaaa5;
+	border-bottom:solid;
+	border-color:#cccccc;
+	
+}
+
+.name
+{
+	font-size:24px;
+	font-family: Arial, "helvetica Neue", Helvetica, sans-serif;
+	font-weight: bold;
+	color:#4aaaa5;
+	border-bottom:solid;
+	border-color:#cccccc;
+}
+
+footer
+{
+	margin-top:4%;
+	text-align:center;
+	background-color:grey;
+	border-top:solid;
+	border-width:10px;
+	height:75px;
+	border-color:#4aaaa5;
+	bottom:-200px;
+	width:100%;	
+}
+.navbar-default .navbar-brand
+{
+	font-size:24px;
+	font-family: Arial, "helvetica Neue", Helvetica, sans-serif;
+	font-weight: bold;
+	color:#4aaaa5;
+}
+
+.panel .panel-heading
+{
+	font-size:24px;
+	font-family: Arial, "helvetica Neue", Helvetica, sans-serif;
+	font-weight: bold;
+	color:#4aaaa5;
+	border-bottom:solid;
+	border-color:#cccccc;
+}
+img
+{
+	margin:20px;
+}
+h3{
+	font-size:24px;
+	font-family: Arial, "helvetica Neue", Helvetica, sans-serif;
+	font-weight: bold;
+	color:#4aaaa5;
+	border-bottom:solid;
+	border-color:#cccccc;
+}
+.package {
+    position: relative;
+    padding: 0px;
+    border-radius:50%;
+}
+.portImage {
+    margin: 0px;
+    width: 100%;
+}
+.overlay
+{
+    position:absolute;
+    bottom: 0;
+    width:100%;
+    color:#ffffff ;
+    font-size: 24px;
+    background-color:#4aaaa5 ;
+    text-align:center;
+    opacity:0.75;
+    bottom:20px;
+    margin: 0px 0px;
+    padding: 0px;
+}
